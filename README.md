@@ -9,8 +9,10 @@
 
 
 ### Exempel på i hur ni kan börja att lösa övningen:
-* Skapa ett objekt med properties "suit" och "value"
+* Skapa ett objekt med properties "suit" och "value" som har default-värden på sig (dessa kommer sedan ändras)
+* Skapa en tom lista där korten kommer att hamna
 * Skapa en loop där ni går från det minsta värdet till det högsta i kortleken
+* Lägg till ett kort i taget i din lista
 * Använd console.log för att dubbelkolla allt
 
 

@@ -15,4 +15,4 @@
 
 
 #### Är detta för svårt?
-Gör de första 26 övningarna i [JS-exercises](https://github.com/BFU-2023/JS-exercises)
+Gör de första 26 övningarna i [JS-exercises](https://github.com/BFU-2023/JS-exercises) innan du börjar med denna. Rekommenderas STARKT!

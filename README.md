@@ -1,6 +1,8 @@
 # Kortleken
 Övning i JavaScript
 
+### Det rekommenderas att göra några av övningarna fram till övning 26 i [JS-exercises](https://github.com/BFU-2023/JS-exercises) innan du börjar med övningen Kortleken.
+
 ## Generera en *kortlek* med 52 kort där varje kort innehåller en färg ( suite ) och ett värde mellan 2 och 14 ( ess ). Ex.
 
 ```javascript
@@ -12,7 +14,3 @@
 * Skapa ett objekt med propertys "suit" och "value"
 * Skapa en loop där ni går från det minsta värdet till det högsta i kortleken
 * Använd console.log för att dubbelkolla allt
-
-
-#### Är detta för svårt?
-Gör de första 26 övningarna i [JS-exercises](https://github.com/BFU-2023/JS-exercises) innan du börjar med denna. Rekommenderas STARKT!

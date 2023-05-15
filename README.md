@@ -5,3 +5,9 @@
 
 ```javascript
 [..., 'hjärter 8', 'hjärter 9','hjärter 10', 'hjärter J', 'hjärter D', 'hjärter K', 'hjärter A', 'klöver 2', 'klöver 3', 'klöver 4', ...]
+```
+
+
+#### Exempel på i hur ni kan börja att lösa övningen:
+* Skapa ett objekt med propertys "suit" och "value"
+* Skapa en loop där ni går från det minsta värdet till det högsta i kortleken

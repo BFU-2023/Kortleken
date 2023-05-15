@@ -1,7 +1,6 @@
 # Kortleken
 Övning i JavaScript
-
-Det rekommenderas att göra några av övningarna fram till övning 26 i [JS-exercises](https://github.com/BFU-2023/JS-exercises) innan du börjar med övningen Kortleken.
+*Det rekommenderas att göra några av övningarna fram till övning 26 i [JS-exercises](https://github.com/BFU-2023/JS-exercises) innan du börjar med övningen Kortleken.
 
 ## Generera en *kortlek* med 52 kort där varje kort innehåller en färg ( suite ) och ett värde mellan 2 och 14 ( ess ). Ex.
 
@@ -14,3 +13,9 @@ Det rekommenderas att göra några av övningarna fram till övning 26 i [JS-exe
 * Skapa ett objekt med propertys "suit" och "value"
 * Skapa en loop där ni går från det minsta värdet till det högsta i kortleken
 * Använd console.log för att dubbelkolla allt
+
+
+## Vill du utmana dig?
+* Utmaning 1. Byt ut alla 11 = J, 12 = D, 13 = K, 14 = A
+* Utmaning 2. Loopa ut dem i HTML och styla med CSS
+* Utmaning 3 ( check norris ). Varje kort ska vara ett objekt med egenskaperna ( suit, value, rank ) och loopas ut snyggt stylat där olika suits har olika färger

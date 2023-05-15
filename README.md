@@ -19,4 +19,4 @@
 ## Vill du utmana dig?
 * Utmaning 1. Byt ut alla 11 = J, 12 = D, 13 = K, 14 = A
 * Utmaning 2. Loopa ut dem i HTML och styla med CSS
-* Utmaning 3 ( check norris ). Varje kort ska vara ett objekt med egenskaperna ( suit, value, rank ) och loopas ut snyggt stylat där olika suits har olika färger
+* Utmaning 3 (Chuck Norris-nivå på utmaning). Varje kort ska vara ett objekt med egenskaperna ( suit, value, rank ) och loopas ut snyggt stylat där olika suits har olika färger
